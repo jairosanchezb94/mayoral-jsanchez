@@ -1,0 +1,86 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Polo bandas",
+            "price": 15.19,
+            "ofprice": "2̶2̶.̶9̶9̶",
+            "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-bandas-nino_id_11-55120-700-L-4.JPG?v=20210729043620",
+            "category": "bandas"
+        },
+        {
+            "id": 2,
+            "title": "Polo ECOFRIENDS manga larga",
+            "price": 17.99,
+            "ofprice": "",
+            "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-ecofriends-manga-larga-bebe-nino_id_11-02139-053-L-4.JPG?v=20210623040923",
+            "category": "maga larga"
+        },
+        {
+            "id": 3,
+            "title": "Polo bandas cuello mao",
+            "price": 15.19,
+            "ofprice": "2̶2̶.̶9̶9̶",
+            "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-bandas-cuello-mao-bebe-nino_id_11-53130-700-L-4.JPG?v=20210820084324",
+            "category": "cuello mao"
+        },
+        {
+            "id": 4,
+            "title": "Polo manga larga print",
+            "price": 22.99,
+            "ofprice": "",
+            "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-print-nino_id_11-04159-029-L-2.JPG?v=20210527133752",
+            "category": "manga larga"
+        },
+        {
+            "id": 5,
+            "title": "Polo rugby banda diagonal",
+            "price": 15.19,
+            "ofprice": "2̶2̶.̶9̶9̶",
+            "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-rugby-banda-diagonal--nino_id_11-55121-701-L-4.JPG?v=20210901052901",
+            "category": "banda diagonal"
+
+        },
+        {
+            "id": 6,
+            "title": "Polo manga larga combinado",
+            "price": 22.29,
+            "ofprice": "",
+            "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-combinado-nino_id_11-04154-065-L-2.JPG?v=20210527133753",
+            "category": "manga larga"
+
+        },
+        {
+            "id": 7,
+            "title": "Polo manga larga combinado",
+            "price": 15.19,
+            "ofprice": "2̶2̶.̶9̶9̶",
+            "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-combinado-nino_id_11-04154-067-L-4.JPG?v=20210730111911",
+            "category": "manga larga"
+        },
+        {
+            "id": 8,
+            "title": "Polo rayas cuello mao",
+            "price": 22.99,
+            "ofprice": "",
+            "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-rayas-cuello-mao-bebe-nino_id_11-53114-700-L-4.JPG?v=20210922071256",
+            "category": "cuello mao"
+        },
+        {
+            "id": 9,
+            "title": "Polo bandas",
+            "price": 15.19,
+            "ofprice": "2̶2̶.̶9̶9̶",
+            "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-bandas-nino_id_11-55122-701-L-4.JPG?v=20211019050424",
+            "category": "bandas"
+        },
+        {
+            "id": 10,
+            "title": "Polo manga larga desagujado blocking",
+            "price": 24.99,
+            "ofprice": "",
+            "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-desagujado-blocking-nino_id_11-55125-701-L-4.JPG?v=20210827045456",
+            "category": "manga larga"
+        }
+    ]
+}
